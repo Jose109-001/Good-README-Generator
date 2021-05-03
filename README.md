@@ -1,8 +1,4 @@
 
-https://user-images.githubusercontent.com/77666204/116875682-ab8d4e80-ac5e-11eb-9e07-7984414ef507.mp4
-
-
-
 # README.md
 
 
@@ -15,6 +11,11 @@ https://user-images.githubusercontent.com/77666204/116875682-ab8d4e80-ac5e-11eb-
 ### Licenses: MIT, ISC, GNU GPLv3 
 ### Github username: Jose109-001
 ### User email: josephgaspar725@gmail.com
+
+
+
+https://user-images.githubusercontent.com/77666204/116875682-ab8d4e80-ac5e-11eb-9e07-7984414ef507.mp4
+
 
 
 # 09 Node.js Homework: Professional README Generator
