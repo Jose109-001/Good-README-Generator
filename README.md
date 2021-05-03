@@ -1,5 +1,7 @@
 # README.md
-## Title: GENERATE
+
+
+### Title: GENERATE
 ### Description: This is a good README generator
 ### How to install: npm install
 ### Usage: NO
