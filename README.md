@@ -1,9 +1,9 @@
                                          
                                          
-# README.md                                     ![node](https://user-images.githubusercontent.com/77666204/116878134-3face500-ac62-11eb-95d3-234cd6553486.png)       
+# README.md                                         
 
 
-### Title: GENERATE
+### Title: GENERATE                                        ![node](https://user-images.githubusercontent.com/77666204/116878134-3face500-ac62-11eb-95d3-234cd6553486.png)    
 ### Description: This is a good README generator
 ### How to install: npm install
 ### Usage: NO
