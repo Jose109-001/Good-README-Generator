@@ -176,4 +176,6 @@ The URL of the GitHub repository, with a unique name and a README describing the
 
 https://user-images.githubusercontent.com/77666204/116872150-c5c42e00-ac58-11eb-9036-0a780fc84589.mp4
 
+Press here to open:   https://jose109-001.github.io/Good-README-Generator/
+
 
