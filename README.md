@@ -1,17 +1,18 @@
-                                         
-                                         
-# README.md                                   ![node](https://user-images.githubusercontent.com/77666204/116878134-3face500-ac62-11eb-95d3-234cd6553486.png)                                       
+                                 
+ # README.md   
+ 
+ ### Title: GENERATE                                           
+ ### Description: This is a good README generator
+ ### How to install: npm install
+ ### Usage: NO
+ ### Contribute: ME
+ ### How to test: npm run test
+ ### Licenses: MIT, ISC, GNU GPLv3 
+ ### Github username: Jose109-001
+ ### User email: josephgaspar725@gmail.com                                                          
 
 
-### Title: GENERATE                                           
-### Description: This is a good README generator
-### How to install: npm install
-### Usage: NO
-### Contribute: ME
-### How to test: npm run test
-### Licenses: MIT, ISC, GNU GPLv3 
-### Github username: Jose109-001
-### User email: josephgaspar725@gmail.com
+
 
 
 # 09 Node.js Homework: Professional README Generator
