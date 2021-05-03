@@ -13,15 +13,6 @@
 ### User email: josephgaspar725@gmail.com
 
 
-
-https://user-images.githubusercontent.com/77666204/116875682-ab8d4e80-ac5e-11eb-9e07-7984414ef507.mp4
-
-
-Press here to open:   https://jose109-001.github.io/Good-README-Generator/
-
-https://user-images.githubusercontent.com/77666204/116872150-c5c42e00-ac58-11eb-9036-0a780fc84589.mp4
-
-
 # 09 Node.js Homework: Professional README Generator
 
 
@@ -146,6 +137,15 @@ The URL of the GitHub repository, with a unique name and a README describing the
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
+
+
+
+https://user-images.githubusercontent.com/77666204/116875682-ab8d4e80-ac5e-11eb-9e07-7984414ef507.mp4
+
+
+Press here to open:   https://jose109-001.github.io/Good-README-Generator/
+
+https://user-images.githubusercontent.com/77666204/116872150-c5c42e00-ac58-11eb-9036-0a780fc84589.mp4
 
 
 
