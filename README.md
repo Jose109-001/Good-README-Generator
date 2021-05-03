@@ -1,6 +1,3 @@
-
-https://user-images.githubusercontent.com/77666204/116872150-c5c42e00-ac58-11eb-9036-0a780fc84589.mp4
-
 # README.md
 ## GENERATE
 ### Description: This is a good README generator
@@ -136,3 +133,47 @@ The URL of the GitHub repository, with a unique name and a README describing the
 
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/77666204/116872150-c5c42e00-ac58-11eb-9036-0a780fc84589.mp4
+
+
