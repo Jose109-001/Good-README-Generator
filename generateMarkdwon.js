@@ -7,7 +7,7 @@ function cleanMarkDown(markDown) {
 function generateMarkDown(data) {
     let markDown = `
         # README.md
-        ## ${data.title}
+        ### ${data.title}
         ### Description: ${data.description}
         ### How to install: ${data.installation}
         ### Usage: ${data.usage}
