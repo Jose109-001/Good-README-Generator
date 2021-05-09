@@ -19,7 +19,7 @@ module.exports = [
   {
     type: "input",
     message: "How would you like your application to be sued?",
-    name: "usage",
+    name: "sued",
   },
   {
     type: "input",

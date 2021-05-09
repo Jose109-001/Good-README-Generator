@@ -1,21 +1,35 @@
 // Trims markdown
 // Remove spaces at the beginning and end of each line
-function cleanMarkDown(markDown) {
-    return markDown.split(/\n/).map(line => line.trim()).join('\n').trim()
-}
+const { cleanMarkDown, licensesReducer } = require('./helpers.js')
 
 function generateMarkDown(data) {
     let markDown = `
         # README.md
-        ### ${data.title}
-        ### Description: ${data.description}
-        ### How to install: ${data.installation}
-        ### Usage: ${data.usage}
-        ### Contribute: ${data.contribute}
-        ### How to test: ${data.test}
-        ### Licenses: ${data.license.join(', ')}
-        ### Github username: ${data.username}
-        ### User email: ${data.email}
+        # ${data.title}
+
+        ## Description
+        ${data.description}
+        
+        ## Instructions
+        |Action|Description
+        |-|-|
+        |Install|${data.installation}
+        |Test|${data.test}
+
+        ## How would you like your application to be sued
+        ${data.sued}
+
+        ## Contributed to this project
+        ${data.contribute}
+
+        ## Licenses
+        ${data.license.reduce(licensesReducer, '')}
+
+        ## Github username
+        ${data.username}
+        
+        ## User email
+        ${data.email}
     `;
 
     console.log('Data', data);
