@@ -1,7 +1,6 @@
 
-https://user-images.githubusercontent.com/77666204/117563287-25528b80-b0e8-11eb-9424-3b3c7b999a54.mp4
-
 # README.md
+
 # GENERATE
 
 ## Description
@@ -34,3 +33,6 @@ josephgaspar725@gmail.com
 
 
 Press here to open: https://jose109-001.github.io/Good-README-Generator/
+
+https://user-images.githubusercontent.com/77666204/117563287-25528b80-b0e8-11eb-9424-3b3c7b999a54.mp4
+
