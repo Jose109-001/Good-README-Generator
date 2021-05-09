@@ -17,10 +17,10 @@ NO
 ME
 
 ## Licenses
-![Apache License](https://www.apache.org/img/support-apache.jpg =100x)
-![MIT License](https://opensource.org/files/OSIApproved_1.png =100x)
-![ISC License](https://upload.wikimedia.org/wikipedia/commons/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg =100x)
-![GNU GPLv3 License](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LGPLv3_Logo.svg/1920px-LGPLv3_Logo.svg.png =100x)
+![Apache License](https://www.apache.org/img/support-apache.jpg =100x)     
+![MIT License](https://opensource.org/files/OSIApproved_1.png =100x)     
+![ISC License](https://upload.wikimedia.org/wikipedia/commons/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg =100x)          
+![GNU GPLv3 License](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LGPLv3_Logo.svg/1920px-LGPLv3_Logo.svg.png =100x)     
 
 
 ## Github username
