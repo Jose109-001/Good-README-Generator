@@ -1,7 +1,7 @@
 
 # README.md
 
-# GENERATOR
+# GENERATE
 
 ## Description
 This is a good README generator
