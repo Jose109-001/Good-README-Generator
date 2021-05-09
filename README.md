@@ -1,3 +1,6 @@
+![ISC](https://user-images.githubusercontent.com/77666204/117564770-115f5780-b0f1-11eb-822e-c2f2fa8fb542.png)
+![LGPL](https://user-images.githubusercontent.com/77666204/117564771-13c1b180-b0f1-11eb-98b4-9d3ac3357484.png)
+![mit](https://user-images.githubusercontent.com/77666204/117564773-16240b80-b0f1-11eb-9c74-77b5923276ee.png)
 ![APACHE](https://user-images.githubusercontent.com/77666204/117564761-03113b80-b0f1-11eb-885d-a7af220cda9c.png)
 # README.md    
 
