@@ -1,5 +1,4 @@
-
-# README.md    ![APACHE](https://user-images.githubusercontent.com/77666204/117564696-aada3980-b0f0-11eb-900d-de42e0507525.png)
+# README.md    
 
 # GENERATE
 
